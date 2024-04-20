@@ -1,0 +1,66 @@
+init:XRthon_test
+
+# This is comment
+
+import:math
+import:SYS.var
+
+print:Hello world.
+a=This is "a"
+print:'a'
+
+b=input:This is "b" input：
+print:'b'
+
+c={This,is,"c"}
+print:'c'
+
+d=math
+print:'d'
+#e =math.pi
+#print:'e '
+
+del:math
+# del:__name__,__path__,__init__,__file__,__package__
+# import:SYS.Var
+e=math
+print:'e'
+f=12
+print:'f'
+print:type:f
+
+print:'__name__'
+print:'__path__'
+print:'__init__'
+print:'__file__'
+print:'__package__'
+
+as=True
+
+while:'as'
+    as=False
+end:while:a
+
+# raise:a,NameError
+# raise:a,NameError,123
+
+def:test
+    a=a12
+    print:'a'
+    print:This is a function(test)
+end:def:test
+
+for:2
+    print:This is a for loop
+    print:'i'
+    print:'ln'
+end:for:2
+
+if:True
+    print:This is a if statement
+end:if:True
+
+test:
+
+print:end
+return:

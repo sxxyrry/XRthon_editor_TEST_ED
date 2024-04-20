@@ -1,0 +1,5 @@
+init:TEST_
+def:TEST_
+    print:TEST_
+end:def:TEST_
+return:

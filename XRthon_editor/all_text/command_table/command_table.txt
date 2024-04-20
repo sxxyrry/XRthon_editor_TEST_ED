@@ -1,0 +1,7 @@
+ > XRi = installer
+ > XR_i = installer
+ > XR_ister = installer
+ > XR_installer = installer
+ > C_T = Command table
+ > E_L = Edition logs
+ > exit = exit
